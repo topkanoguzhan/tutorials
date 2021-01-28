@@ -308,7 +308,7 @@ struct row_iterator
 * Create right data structure
 * Create right executor
 * Create the parallel execution policy
-* [Solution](https://github.com/STEllAR-GROUP/tutorials/tree/master/examples/02_stencil/stencil_parallel_1.cpp)
+* [Solution](https://github.com/STEllAR-GROUP/tutorials/blob/master/examples/03_stencil/stencil_parallel_1.cpp)
 
 ---
 ## Modeling the Stencil in C++ with HPX
